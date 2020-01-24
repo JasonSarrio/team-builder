@@ -3,6 +3,8 @@ import logo from './logo.svg';
 import './App.css';
 import MemberList from "../src/components/MemberList"
 
+
+
 function App() {
 
   //Our array of finalized members
